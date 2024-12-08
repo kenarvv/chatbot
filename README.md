@@ -27,7 +27,3 @@ the following command to test it in the console.
 ```
 $ (venv) py chat.py
 ```
-
-## Credits:
-This repo was used for the frontend code:
-https://github.com/hitchcliff/front-end-chatjs
